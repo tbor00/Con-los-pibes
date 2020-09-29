@@ -8,3 +8,4 @@
 Ctlr+shift+p (visual server => manera de verlo)
 Ctlr+S (guardar el archivo)
 Ctlr+Z (deshacer)
+aca estuvo tute el gay
