@@ -1,0 +1,10 @@
+/// git bush
+1º git pull (actualización de trabajo)
+2º git add (añade)
+3º git commit (-m "nombre que quieras")
+4º git push (se sube)
+
+/// VS
+Ctlr+shift+p (visual server => manera de verlo)
+Ctlr+S (guardar el archivo)
+Ctlr+Z (deshacer)
