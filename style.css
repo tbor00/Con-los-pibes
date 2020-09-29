@@ -11,7 +11,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 
 h1{
     padding-top: 1em;
-    color: blue;
+    color: green;
     text-align: center;
 }
 
@@ -45,12 +45,4 @@ h2, h3 {
     padding-top:0.5em;
     text-align: center;
     color:white;
-}
-
-.Tutegay {
-    text-align: center;
-    margin-left: 609px;
-    color: pink;
-    font-size: 20px;
-
 }
