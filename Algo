@@ -1,0 +1,21 @@
+Hola como andas todo bien? 
+bien vos q onda gracias por invitar a aser esto
+
+#include <stdio.h>
+
+int main() {
+
+   int tute=0, ella=122342, casamiento;
+
+    if (ella % tute==0){
+      ella+tute= casamiento;
+    }
+    else 
+      llorar y mimir;
+      
+      
+}
+   
+  
+
+    
